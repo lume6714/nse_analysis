@@ -18,9 +18,10 @@ python project.py
 - Annualized return, volatility, and Sharpe ratio for each stock
 - Cumulative return chart saved as report.png
 
-## results
+## Results (last 1 year)
 
 | Stock | Ann. Return | Ann. Volatility | Sharpe |
+|:---|:---|:---|:---|
 | HDFCBANK.NS | -23.7% | 21% | -1.10 |
 | ICICIBANK.NS | -0.7% | 19% | -0.04 |
 | INFY.NS | -28.7% | 30% | -0.96 |
